@@ -1,0 +1,15 @@
+.box {
+    height: 80px;
+    width: 80px;
+    background-color: #e0c2c2;
+    text-align: center;
+  }
+
+  .grid {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    height: 50px;
+    width: 50%;
+    align-items: center;
+  }

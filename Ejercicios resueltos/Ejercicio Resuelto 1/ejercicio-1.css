@@ -1,0 +1,17 @@
+.spiderman {
+    width: 200px;
+    height: 200px;
+    padding: 20px 0 0 60px;
+}
+
+.encabezado {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.encabezado .menu{
+    display: flex;
+    gap: 100px;
+    padding: 0 40px 0 0;
+}
